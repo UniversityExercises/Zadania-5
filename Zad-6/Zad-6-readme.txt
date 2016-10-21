@@ -1,0 +1,1 @@
+Description about zad-6.
